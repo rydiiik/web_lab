@@ -1,0 +1,23 @@
+caption {
+    font-size: 22px;
+    color: rgb(2, 20, 58);
+    font-weight: bold;
+}
+table {
+  font-family: "Lucida Sans Unicode", "Lucida Grande", Sans-Serif;
+  font-size: 14px;
+  background: white;
+  border-collapse: collapse; 
+  /* отображение только одинарных линий - просветы между столбцами*/
+  text-align: left;
+}
+th {
+  font-weight: bold;
+  color: rgb(2, 20, 58);
+  border-bottom: 2px solid #6678b1;
+  padding: 10px 8px;
+}
+td {
+  color:rgb(2, 20, 58);
+  padding: 9px 8px;
+}
